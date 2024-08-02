@@ -1,16 +1,13 @@
-## Hi there 👋
+##  Boas vindas professor👋
+Meu nome é sophia 
 
-<!--
-**Meneses1A/Meneses1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- eu estudo no alura
+- eu sou aluna de periédo integral
 
-Here are some ideas to get you started:
+### você pode entrar em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0001118647695sp@al.educacacao.sp.gov.br
+
+@meneses1A
+
+![](https://media1.tenor.com/m/a_KQZSbyvgcAAAAC/vanitas-vanitas-no-carte.gif)
